@@ -3,7 +3,7 @@
 ### !challenge
 
 * type: testable-project
-* id: foobar
+* id: doit-challenge-checkpoint
 * title: doit
 * upstream: https://github.com/gSchool/minimal-testable-project
 * validate_fork: false

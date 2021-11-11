@@ -1,6 +1,32 @@
 # Smoke Test
 
 ### !challenge
+
+* type: testable-project
+* id: doit-challenge
+* title: doit
+* upstream: https://github.com/gSchool/minimal-testable-project
+* validate_fork: false
+
+##### !question
+
+pass: https://github.com/pabranch/minimal-testable-project/tree/doit
+
+fail: https://github.com/pabranch/minimal-testable-project/tree/fail-to-doit
+ 
+
+##### !end-question
+
+##### !placeholder
+
+https://github.com/eng-student-account/minimal-testable-project
+
+##### !end-placeholder
+
+### !end-challenge
+
+
+### !challenge
 * type: custom-snippet
 * language: text
 * id: 1d56ec50-9682-4807-b5a6-cf714ffdab80
