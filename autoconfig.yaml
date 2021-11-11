@@ -15,3 +15,6 @@ Standards:
   - Type: Lesson
     Path: /10-units/10-smoke-test.md
     UID: e6ec95717b51173dd589f20a680b3903
+  - Type: Checkpoint
+    Path: /10-units/99-checkpoint.md
+    UID: b6bbb6aee2a59d54548cc4e5147bb88a
