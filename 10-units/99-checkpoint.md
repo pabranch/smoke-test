@@ -7,6 +7,7 @@
 * title: doit
 * upstream: https://github.com/gSchool/minimal-testable-project
 * validate_fork: false
+* points: 5
 
 ##### !question
 
