@@ -5,7 +5,7 @@ RUN apk add --no-cache bash
 # Set current directory
 WORKDIR /app
 
-COPY test.sh .
+COPY test.sh ./
 
 # For local testing only. Learn will provide the actual submission
-COPY submission.txt .
+COPY submission.txt ./
